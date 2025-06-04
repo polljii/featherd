@@ -24,10 +24,10 @@
 
 ---
 
-![img1](https://github.com/polljii/rafipay/blob/main/rafipay1.png)
+![img1](https://github.com/polljii/featherd/blob/main/featherd1.png)
 
-![img2](https://github.com/polljii/rafipay/blob/main/rafipay2.png)
+![img2](https://github.com/polljii/featherd/blob/main/featherd2.png)
 
-![img3](https://github.com/polljii/rafipay/blob/main/rafipay3.png)
+![img3](https://github.com/polljii/featherd/blob/main/featherd3.png)
 
-![img4](https://github.com/polljii/rafipay/blob/main/rafipay4.png)
+![img4](https://github.com/polljii/featherd/blob/main/featherd4.png)
