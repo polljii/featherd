@@ -10,7 +10,7 @@
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
 ![Drupal](https://img.shields.io/badge/Drupal-7-blue)
-![AWS](https://img.shields.io/badge/Amazon-AWS-8A2BE2)
+![AWS](https://img.shields.io/badge/Amazon-AWS-orange)
 ![MariaDB](https://img.shields.io/badge/MariaDB-10.2-C8102E)
 ![Xamarin](https://img.shields.io/badge/Xamarin-Forms-gold)
 
